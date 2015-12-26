@@ -1,0 +1,23 @@
+---
+  title: "README"
+output: html_document
+---
+  
+  This is the course project for Coursera's "Getting and Cleaning Data" course. 
+
+Apart from this *README* files, two additional files are included: *run_analysis.R*, which outputs the clean data and *CodeBook.Rmd*, which explains the variables used.  
+
+Here's the outline of how the script works:
+  
+  *Part 1 (1st line) - Reading in the test set*  
+  *Part 2 (17th line) - Reading in the training set*  
+  *Part 3 (33rd line) - Reading in the activities and features*  
+  *Part 4 (39th line) - Merging the training and test data sets, assigning names to the features*  
+  *Part 5 (54th line) - Extracting the mean values*  
+  *Part 6 (83rd line) - Creating the data frame with mean and standard deviation values*  
+  *Part 7 (94th line) - Adding activity names*  
+  *Part 8 (100th line) - Creating the final data frame*  
+  *Part 9 (107th line) - Producing final data*  
+  
+  
+  
